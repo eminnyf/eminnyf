@@ -7,10 +7,10 @@
 - 😄 Pronomes: ela/dela.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href = "mailto:eminny_f.cruz@yahoo.com.br"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eminny-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+  
 ---  
 
 ### 🤖 Linguagens e Tecnologias
